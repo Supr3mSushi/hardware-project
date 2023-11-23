@@ -15,8 +15,8 @@ byte authorizedUID[][4] = {
   {0x14, 0x99, 0xE3, 0x62},
 };
 
-const char *ssid = "NUMERICABLE-82B5";
-const char *password = "KHC2EA722X";
+const char *ssid = "XXXXXXXX"; // Nom de votre box internet
+const char *password = "XXXXXXX"; // Mot de passe de votre box 
 
 const char* apiIP = "192.168.1.2";
 const int apiPort = 3000;
