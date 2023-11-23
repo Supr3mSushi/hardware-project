@@ -47,7 +47,6 @@ This project combines the physical and digital worlds to create a unique experie
 2. **Start the MongoDB Server:**
    - Depending on your operating system, you might start MongoDB using a command like:
      ```bash
-     # Example command on Linux
      sudo service mongod start
      ```
 
@@ -80,7 +79,6 @@ Make sure to replace 'yourdbname' with the actual name you chose for your MongoD
    - Open a terminal and navigate to the directory where your Node.js API code is located.
 
      ```bash
-     # Example command
      cd path/to/your/api
      ```
 
@@ -88,7 +86,6 @@ Make sure to replace 'yourdbname' with the actual name you chose for your MongoD
    - Run the following command to install the necessary dependencies for your Node.js API:
 
      ```bash
-     # Example command
      npm install
      ```
 
@@ -125,7 +122,6 @@ Make sure to replace 'yourdbname' with the actual name you chose for your MongoD
    - [Follow the Node.js installation instructions for Debian](https://nodejs.org/).
 
      ```bash
-     # Example commands to install Node.js on Debian
      sudo apt update
      sudo apt install nodejs
      sudo apt install npm
@@ -135,7 +131,6 @@ Make sure to replace 'yourdbname' with the actual name you chose for your MongoD
    - Open a terminal and navigate to the directory where your Node.js API code is located.
 
      ```bash
-     # Example command
      cd path/to/your/api
      ```
 
@@ -143,7 +138,6 @@ Make sure to replace 'yourdbname' with the actual name you chose for your MongoD
    - Run the following command to install the necessary dependencies for your Node.js API:
 
      ```bash
-     # Example command
      npm install
      ```
 
