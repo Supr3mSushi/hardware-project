@@ -205,4 +205,4 @@ If you have any questions, feedback, or would like to contribute, feel free to g
 
 
 ## License
-This project is licensed under the [License-name](LICENSE).
+This project is licensed under the [License](LICENSE).
