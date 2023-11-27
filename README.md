@@ -191,10 +191,6 @@ The development of this project has benefited from the contributions of several 
 - [Amandine](https://github.com/Avg38)
 - [Theresty](https://github.com/TherestyGit)
 
-A special thanks to [GhostFighter50](https://github.com/ghostfighter50) for their outstanding work in creating the API.
-
-The associated API for this project can be found on [GitHub](https://github.com/ghostfighter50/BadgeReaderWebApp).
-
 If you would like to contribute to this project, feel free to submit pull requests, report issues, or get in touch with the existing contributors.
 
 
